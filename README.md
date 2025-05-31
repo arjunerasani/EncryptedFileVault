@@ -59,8 +59,8 @@ EncryptedFileVault/
 
 ## Important Notes
 
-- The vault/ folder must exist before running the program otherwise a database error will occur.
-- Passowrds are securly hashed and salted; the salt is stored in the database.
+- The vault/folder must exist before running the program otherwise a database error will occur.
+- Passwords are securly hashed and salted; the salt is stored in the database.
 - The program uses AES encryption with a random salt and IV for security.
 
 ## Contributing
