@@ -82,5 +82,7 @@ EncryptedFileVault/
 ## Author
 
 Arjun Erasani
+
 Email: arerasani9@gmail.com
+
 GitHub: https://github.com/arjunerasani
